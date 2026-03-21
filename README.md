@@ -26,4 +26,4 @@ thinking with quantitative analysis.
 
 ## Contact
 - **Email:** pareshkapoor19@gmail.com
---**LinkedIn:** [Paresh Kapoor](www.linkedin.com/in/paresh-kapoor-407028230)
+--**LinkedIn:** [Paresh Kapoor](https://www.linkedin.com/in/paresh-kapoor)
