@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Paresh Kapoor
 
-<!--
-**pareshkapoor19-droid/pareshkapoor19-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineer → Data Science & Quantitative Finance
 
-Here are some ideas to get you started:
+I'm building my expertise at the intersection of 
+data and financial markets — combining engineering 
+thinking with quantitative analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Languages:** Python · SQL (PostgreSQL)
+- **Libraries:** Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn
+- **Tools:** Jupyter Notebook · Streamlit · Git · Excel
+- **Domain:** Financial Markets · Quantitative Analysis · Statistics
+
+## Projects
+| Project | Tools | Status |
+|---|---|---|
+| NSE Stock Market Analysis + Momentum Backtest | Python · Pandas · yfinance · Streamlit | In Progress |
+| Credit Risk Prediction Model | Scikit-learn · XGBoost · SHAP | Coming Soon |
+| Delhi NCR Real Estate Analysis | Python · Regression · Streamlit | Coming Soon |
+
+## Currently
+- Building NSE large-cap momentum strategy backtest
+- Learning quantitative finance and machine learning
+- Open to: Data Analyst · Data Scientist · Quant Finance roles
+
+## Contact
+- **Email:** pareshkapoor19@gmail.com
+--**LinkedIn:** [Paresh Kapoor](https://www.linkedin.com/in/pareshkapoor-407028230)
