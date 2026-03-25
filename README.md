@@ -15,7 +15,7 @@ thinking with quantitative analysis.
 ## Projects
 | Project | Tools | Status |
 |---|---|---|
-| NSE Stock Market Analysis + Momentum Backtest | Python · Pandas · yfinance · Streamlit | In Progress |
+| NSE Stock Market Analysis + Momentum Backtest | Python · Pandas · yfinance · Streamlit | deployed |
 | Credit Risk Prediction Model | Scikit-learn · XGBoost · SHAP | Coming Soon |
 | Delhi NCR Real Estate Analysis | Python · Regression · Streamlit | Coming Soon |
 
